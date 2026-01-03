@@ -1,2 +1,2 @@
-just an example file
-and code 
+just an example files and codesss
+and also change some comments to understand by users 
